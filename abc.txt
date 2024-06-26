@@ -1,0 +1,1 @@
+This method is used to read all content from a file into a string. The method ensures that the file is closed when all content has been read
